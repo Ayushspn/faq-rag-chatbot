@@ -1,0 +1,8 @@
+Q: Who created Python?
+A: Python was created by Guido van Rossum in 1991.
+
+Q: What are transformers in NLP?
+A: Transformers use attention mechanisms to process sequences.
+
+Q: What is Bajaj Finance?
+A: Bajaj Finance is a major NBFC in India.
